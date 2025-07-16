@@ -32,11 +32,7 @@ export default function CardItems() {
                 padding: '40px',
             }}
         >
-            {/*  Review 제목 */}
-            <h2
-                style={{ fontSize: '32px', marginBottom: '20px' }}>
-                Reviews
-            </h2>
+
 
             {/*  카드 박스 */}
             <div
